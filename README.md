@@ -17,25 +17,25 @@ A key feature engineering step was creating a binary target variable, "Delay," w
 
 Datasets ware sourced from NOAA's [National Centers for Environmental Information](https://www.ncei.noaa.gov/access/search/data-search/daily-summaries) and the Bureau of Transportation Statistics website (https://www.transtats.bts.gov/ontime/departures.aspx) 
 
-- The dataset includes 16379 from Charleston International Airport, Trained using (2014–2023) data, Tested with 2024 data.
+- The dataset includes 16379 records from Charleston International Airport, Trained using (2014–2023) data, Tested with 2024 data.
 - Features selected include:
-  •	Carrier Code
-  •	Date (mm-dd-yyyy)
-  •	Destination Airport
-  •	Departure Delay (Minutes)
-  •	Delay Carrier (Minutes)
-  •	Delay Weather (Minutes)
-  •	Delay National Aviation System (Minutes)
-  •	Delay Security (Minutes)
-  •	Delay Late Aircraft Arrival (Minutes)
-  •	Date(mm-dd-yyyy)
-  •	Average Dew Point Temperature (ADPT)
-  •	Average Sea Level Pressure (ASLP)
-  •	Average Station Pressure (ASTP)
-  •	Average Wind Speed (AWND)
-  •	Precipitation (PRCP)
-  •	Average Relative Humidity (RHAV)
-  •	Snowfall (SNOW)
-  •	Snow Depth (SNWD)
-  •	Temperature
+  Carrier Code
+  Date (mm-dd-yyyy)
+  Destination Airport
+  Departure Delay (Minutes)
+  Delay Carrier (Minutes)
+  Delay Weather (Minutes)
+  Delay National Aviation System (Minutes)
+  Delay Security (Minutes)
+  Delay Late Aircraft Arrival (Minutes)
+  Date(mm-dd-yyyy)
+  Average Dew Point Temperature (ADPT)
+  Average Sea Level Pressure (ASLP)
+  Average Station Pressure (ASTP)
+  Average Wind Speed (AWND)
+  Precipitation (PRCP)
+  Average Relative Humidity (RHAV)
+  Snowfall (SNOW)
+  Snow Depth (SNWD)
+  Temperature
 
